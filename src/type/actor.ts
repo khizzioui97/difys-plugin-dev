@@ -1,0 +1,9 @@
+export enum BindingPointCategory {
+	UNUSED = 0,
+	PET = 1,
+	MOUNT_DRIVER = 2,
+	LIFTED_ENTITY = 3,
+	BASE_BACKGROUND = 4,
+	MERCHANT_BAG = 5,
+	BASE_FOREGROUND = 6
+}

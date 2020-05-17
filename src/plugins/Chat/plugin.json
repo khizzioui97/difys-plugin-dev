@@ -1,0 +1,8 @@
+{
+	"name": "Chat",
+	"description": "Handling chat features",
+	"author": "Zirpoo",
+	"version": "0.0.1",
+	"requiredPlugins": [],
+	"dependencies": []
+}
